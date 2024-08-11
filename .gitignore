@@ -1,0 +1,5 @@
+# Ignore Executables
+*.out
+
+# Ignore Resources
+*.pdf
